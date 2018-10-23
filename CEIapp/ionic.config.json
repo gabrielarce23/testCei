@@ -1,7 +1,0 @@
-{
-  "name": "CEIapp",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "ionic-angular"
-}
